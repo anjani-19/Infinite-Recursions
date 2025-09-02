@@ -1,6 +1,5 @@
 # Infinite-Recursions
 # StudyMate: An AI-Powered PDF-Based Q&A System for Students
-# StudyMate (Student Edition)
 
 **StudyMate** is an AI-powered academic assistant that makes learning smarter and more interactive.  
 Instead of scrolling through hundreds of pages in PDFs, students can upload their **textbooks, lecture notes, or research papers** and simply **ask questions in natural language**.  
